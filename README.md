@@ -44,7 +44,7 @@ A modern e-commerce administration dashboard focused on store analytics, order m
 
 **Highlights:** Revenue Analytics • Interactive Charts • Order Management • Product Management • Customer Overview • Date Filtering • Dark Mode • Notifications • Responsive Dashboard
 
-![ORBIT Dashboard](assets/orbit-preview.png)
+![ORBIT Dashboard](https://raw.githubusercontent.com/milenmilanov/landing-page-portfolio/main/assets/orbit-preview.png)
 
 🔗 [Live Demo](https://milenmilanov.github.io/orbit-commerce-dashboard/)  
 💻 [Source Code](https://github.com/milenmilanov/orbit-commerce-dashboard)
