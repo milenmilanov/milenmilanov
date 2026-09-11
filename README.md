@@ -1,155 +1,115 @@
 <h1 align="center">Hey, I'm Milen Milanov 👋</h1>
 
 <h3 align="center">
-Frontend Developer • UI/UX Designer • E-commerce Builder • Founder
+Frontend Developer • UI/UX Designer • E-commerce Builder
 </h3>
 
 <p align="center">
-I design and build modern digital experiences - from landing pages and custom storefronts to complete e-commerce interfaces.
+I design and build modern digital experiences — from landing pages and SaaS interfaces to custom e-commerce storefronts.
 </p>
 
 <p align="center">
-<b>Design it. Build it. Improve it. Ship it.</b>
+<strong>Design it. Build it. Improve it. Ship it.</strong>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Milen**, a developer, designer and entrepreneur from Bulgaria 🇧🇬.
+I'm Milen, a developer, designer and entrepreneur from Bulgaria 🇧🇬.
 
-I specialize in building the **front end of modern websites**, with a strong focus on
-**landing pages, UI/UX design, e-commerce and custom storefront experiences**.
+I focus on building **responsive, functional and visually polished web experiences**, with a particular interest in frontend development, UI/UX and e-commerce.
 
-I enjoy taking a project from an idea or design and transforming it into a
-**responsive, functional and visually polished website**.
-
-I'm also the founder of **MD Clothing — Made to be Different**, where I combine
-development, design, e-commerce, branding, marketing and automation to build
-a real-world digital brand from the ground up.
+I'm also the founder of **MD Clothing — Made to be Different**, where I apply development, design, Shopify, branding and digital marketing to a real-world e-commerce brand.
 
 ---
 
-## ⚡ What I Can Build
+# 🚀 Featured Projects
 
-### 🌐 Landing Pages
-Modern, responsive and conversion-focused landing pages designed to turn visitors into customers.
+## KŌRA — Premium E-commerce Storefront
 
-### 🎨 UI/UX Design
-Clean and intuitive interfaces with attention to typography, spacing, hierarchy, usability and overall user experience.
+A modern fashion storefront concept focused on premium e-commerce UI/UX, product discovery and interactive shopping experiences.
 
-### 🛍️ E-commerce Stores
-Custom storefront experiences designed around the identity and requirements of each brand.
+**Highlights:** Quick View • Size Selection • Cart Drawer • Quantity Controls • Free Shipping Progress
 
-### 🧩 Custom Store Themes
-Building and customizing themes for customer stores — from visual changes to completely redesigned storefront experiences.
+![KORA Preview](https://raw.githubusercontent.com/milenmilanov/landing-page-portfolio/main/assets/kora-preview.png)
 
-### 💻 Frontend Development
-Turning designs and concepts into responsive, interactive and polished websites using modern frontend technologies.
-
-### 📱 Responsive Experiences
-Building interfaces that work and feel right across desktop, tablet and mobile.
+[🔗 Live Demo](https://milenmilanov.github.io/landing-page-portfolio/shopify-storefront/) • [💻 Source Code](https://github.com/milenmilanov/landing-page-portfolio/tree/main/shopify-storefront)
 
 ---
 
-## 🛠️ Tech & Tools
+## NEXORA — AI SaaS Landing Page
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
-</p>
+A modern SaaS interface designed around clear product communication, strong visual hierarchy and interactive frontend experiences.
+
+**Highlights:** SaaS UI • Interactive Pricing • FAQ • Dashboard • Scroll Animations
+
+![NEXORA Preview](https://raw.githubusercontent.com/milenmilanov/landing-page-portfolio/main/assets/nexora-preview.png)
+
+[🔗 Live Demo](https://milenmilanov.github.io/landing-page-portfolio/saas-landing-page/) • [💻 Source Code](https://github.com/milenmilanov/landing-page-portfolio/tree/main/saas-landing-page)
+
+---
+
+## NOIR — Fashion Landing Page
+
+An editorial fashion landing page built around bold typography, immersive imagery and a modern streetwear aesthetic.
+
+**Highlights:** Editorial UI • Responsive Design • Hero Experience • Smooth Scrolling • Interactive Navigation
+
+![NOIR Preview](https://raw.githubusercontent.com/milenmilanov/landing-page-portfolio/main/assets/noir-preview.png)
+
+[🔗 Live Demo](https://milenmilanov.github.io/landing-page-portfolio/fashion-landing-page/) • [💻 Source Code](https://github.com/milenmilanov/landing-page-portfolio/tree/main/fashion-landing-page)
+
+---
+
+# 🛠️ Tech & Tools
 
 ### Frontend
 
-`HTML` • `CSS` • `JavaScript` • `Responsive Design` • `Frontend Development`
+`HTML5` • `CSS3` • `JavaScript` • `Responsive Design`
 
 ### E-commerce
 
-`Shopify` • `Liquid` • `Custom Themes` • `Storefront Development` • `Theme Customization`
+`Shopify` • `Liquid` • `Custom Themes` • `Storefront Development`
 
-### Design
+### UI / UX
 
-`UI/UX` • `Figma` • `Landing Page Design` • `Responsive Design` • `Design Systems`
+`Figma` • `UI/UX Design` • `Landing Page Design` • `Design Systems`
 
-### Other
+### Tools & Workflow
 
-`Git` • `GitHub` • `AI Tools` • `Automation` • `APIs` • `Digital Marketing`
+`Git` • `GitHub` • `APIs` • `AI Tools` • `Automation`
 
 ---
 
-## 🚀 Founder — MD Clothing
+# 🚀 Founder — MD Clothing
 
 ### MADE TO BE DIFFERENT.
 
-I'm building **MD Clothing**, a Bulgarian streetwear brand inspired by Japanese aesthetics and the idea of standing apart from the ordinary.
+I'm building **MD Clothing**, a Bulgarian streetwear brand inspired by Japanese aesthetics and individuality.
 
-Building MD has given me the opportunity to work across the entire digital product lifecycle:
+MD Clothing gives me a real-world environment where I combine:
 
-- 🎨 Brand & visual identity
-- 💻 Frontend development
-- 🛍️ Shopify development
-- 🧩 Custom theme development
-- 📱 Responsive UI/UX
-- 📦 E-commerce systems
-- 🤖 AI & automation
-- 📈 Digital marketing
-- 🧪 Conversion & UX experimentation
+`E-commerce` • `Shopify Development` • `UI/UX` • `Branding` • `Marketing` • `Automation`
 
-It's more than a clothing project — it's where I continuously experiment with the intersection of **design, technology and business**.
+It's where I experiment with the intersection of **design, technology and business**.
 
 ---
 
-## 💼 What I Can Help With
+# 🌐 Let's Connect
 
-I'm interested in working on projects involving:
+🌍 **Portfolio:** [Landing Page Portfolio](https://milenmilanov.github.io/landing-page-portfolio/)
 
-- Landing page development
-- Frontend website development
-- UI/UX design
-- Shopify store development
-- Custom Shopify themes
-- Existing store redesigns
-- Responsive website development
-- E-commerce UX improvements
-- Custom storefront experiences
+🛍️ **MD Clothing:** [mdclothing.net](https://mdclothing.net)
 
-If you have an idea, design or existing store that needs a better digital experience — **let's build it.**
+💻 **GitHub:** [@milenmilanov](https://github.com/milenmilanov)
+
+I'm open to opportunities involving **Frontend Development, UI/UX, Shopify, Landing Pages and E-commerce.**
 
 ---
 
-## 🧠 My Approach
-
-> Don't just learn how things work. Build something with it.
-
-```text
-IDEA
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-IMPROVE
-  ↓
-SHIP 🚀
-```
-
-
-
-## 🌐 Let's Connect
-
-**MD Clothing:** https://mdclothing.net
-
-**GitHub:** [@milenmilanov](https://github.com/milenmilanov)
-
-Open to **Frontend, UI/UX, landing page and e-commerce projects.**
-
----
+<h2 align="center">BUILD DIFFERENT.</h2>
 
 <p align="center">
-  <b>BUILD DIFFERENT.</b>
-</p>
-
-<p align="center">
-  Design • Develop • Improve • Repeat
+Design • Develop • Improve • Repeat
 </p>
