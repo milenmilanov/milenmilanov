@@ -38,6 +38,19 @@ A modern fashion storefront concept focused on premium e-commerce UI/UX, product
 
 ---
 
+### ORBIT — E-commerce Analytics Dashboard
+
+A modern e-commerce administration dashboard focused on store analytics, order management and business performance.
+
+**Highlights:** Revenue Analytics • Interactive Charts • Order Management • Product Management • Customer Overview • Date Filtering • Dark Mode • Notifications • Responsive Dashboard
+
+![ORBIT Dashboard](assets/orbit-preview.png)
+
+🔗 [Live Demo](https://milenmilanov.github.io/orbit-commerce-dashboard/)  
+💻 [Source Code](https://github.com/milenmilanov/orbit-commerce-dashboard)
+
+---
+
 ## NEXORA — AI SaaS Landing Page
 
 A modern SaaS interface designed around clear product communication, strong visual hierarchy and interactive frontend experiences.
