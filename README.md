@@ -134,27 +134,15 @@ IMPROVE
 SHIP 🚀
 ```
 
----
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milenmilanov&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenmilanov&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
 **MD Clothing:** https://mdclothing.net
 
-**GitHub:** @milenmilanov
+**GitHub:** [@milenmilanov](https://github.com/milenmilanov)
 
-Open to **frontend, UI/UX, landing page and e-commerce projects.**
+Open to **Frontend, UI/UX, landing page and e-commerce projects.**
 
 ---
 
