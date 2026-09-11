@@ -5,7 +5,7 @@ Frontend Developer • UI/UX Designer • E-commerce Builder • Founder
 </h3>
 
 <p align="center">
-I design and build modern digital experiences — from landing pages and custom storefronts to complete e-commerce interfaces.
+I design and build modern digital experiences - from landing pages and custom storefronts to complete e-commerce interfaces.
 </p>
 
 <p align="center">
